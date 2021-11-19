@@ -5,6 +5,7 @@
 ![img](images/screenshot.png)
 
 ## Docs
+To jest mała zmiana
 
 ### Running locally
 
